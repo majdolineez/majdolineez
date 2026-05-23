@@ -26,7 +26,7 @@ Je suis en veille constante sur les évolutions de l'écosystème web et de l'IA
 ### 📬 Me contacter
 *   **LinkedIn :** [Majdoline Ez-Zaher](https://www.linkedin.com/in/majdoline-ezzaher/)
 *   **Email :** majdolineez@gmail.com
-*   **Portfolio :** *[Si tu as un lien de portfolio ou ton CV en ligne]*
+
 
 ---
 *« Je conçois le code avec la précision d'une développeuse et l'œil d'une designer. »*
